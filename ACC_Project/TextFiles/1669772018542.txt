@@ -1,0 +1,1835 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GeeksforGeeks | A computer science portal for geeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+Courses
+
+
+
+For Working Professionals
+
+
+
+Data Structure & Algorithm Classes (Live)
+
+System Design (Live)
+
+Java Backend Developer (Live)
+
+Full Stack Development with React & Node JS (Live)
+
+Complete Data Science Program
+
+Data Structure & Algorithm-Self Paced
+
+Explore More Live Courses
+
+For Students
+
+
+
+Competitive Programming (Live)
+
+Interview Preparation Course
+
+Data Structure & Algorithm-Self Paced
+
+Data Science (Live)
+
+Full Stack Development with React & Node JS (Live)
+
+GATE CS 2023 Test Series
+
+Explore More Self-Paced Courses
+
+Complete Preparation Packages
+
+
+
+Interview Preparation Packages
+
+Complete Data Science Package
+
+Preparation Package for Working Professional
+
+Programming Languages
+
+
+
+Python Foundation
+
+Java Programming Foundation
+
+Fundamentals of Java Collection Framework
+
+JavaScript Foundation
+
+C Programming(Basic to Advance)
+
+C++ Programming
+
+C++ STL
+
+Advanced Javascript
+
+Web Development
+
+
+
+Full Stack Development with React & Node JS(Live)
+
+Java Backend Development(Live)
+
+React JS (Basic to Advanced)
+
+Advanced Javascript
+
+Advanced HTML
+
+Machine Learning and Data Science
+
+
+
+Machine Learning Basic and Advanced
+
+Complete Data Science Program(Live)
+
+Data Analysis with Python
+
+School Courses
+
+
+
+School Guide
+
+Python Programming
+
+Learn To Make Apps
+
+Explore more
+
+All Courses
+
+Tutorials
+
+
+
+DSA
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Bitwise Algorithms
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+JavaScript
+
+PHP
+
+C#
+
+SQL
+
+Scala
+
+Perl
+
+Go Language
+
+Kotlin
+
+Web Development
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+PHP
+
+CSS Frameworks
+
+
+
+Bootstrap
+
+Tailwind CSS
+
+Foundation CSS
+
+Materialize CSS
+
+Bulma
+
+Pure CSS
+
+Primer CSS
+
+Blaze UI
+
+Semantic UI
+
+JavaScript Frameworks
+
+
+
+AngularJS
+
+Angular PrimeNG
+
+Angular ngx Bootstrap
+
+NodeJS
+
+Express.js
+
+Blaze UI
+
+JavaScript Libraries
+
+
+
+jQuery
+
+jQuery Mobile
+
+jQuery UI
+
+jQuery EasyUI
+
+jQWidgets
+
+ReactJS
+
+React Bootstrap
+
+React Rebass
+
+React Desktop
+
+React Suite
+
+ReactJS Evergreen
+
+ReactJS Reactstrap
+
+Ant Design
+
+BlueprintJS
+
+p5.js
+
+Lodash
+
+TensorFlow.js
+
+Moment.js
+
+Collect.js
+
+WordPress
+
+JSON
+
+ML & Data Science
+
+
+
+Machine Learning
+
+Data Science
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE CS 2023 Syllabus
+
+Important Topics for GATE CS
+
+Software Designs
+
+
+
+Software Design Patterns
+
+System Design Tutorial
+
+GFG Sheets
+
+
+
+Web Dev Cheat Sheets
+
+
+
+HTML Cheat Sheet
+
+CSS Cheat Sheet
+
+Bootstrap Cheat Sheet
+
+JS Cheat Sheet
+
+jQuery Cheat Sheet
+
+Angular Cheat Sheet
+
+Company-Wise SDE Sheets
+
+
+
+Facebook SDE Sheet
+
+Amazon SDE Sheet
+
+Apple SDE Sheet
+
+Netflix SDE Sheet
+
+Google SDE Sheet
+
+Wipro Coding Sheet
+
+Infosys Coding Sheet
+
+TCS Coding Sheet
+
+Cognizant Coding Sheet
+
+HCL Coding Sheet
+
+DSA Sheets
+
+
+
+SDE Sheet
+
+FAANG Coding Sheet
+
+Love Babbar Sheet
+
+Mass Recruiter Sheet
+
+Product-Based Coding Sheet
+
+Company-Wise Preparation Sheet
+
+Array Sheet
+
+String Sheet
+
+Tree Sheet
+
+Graph Sheet
+
+DP Sheet
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Number System
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-12)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+Class 12 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+Physics Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+Chemistry Notes
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Business Studies (Class 11th)
+
+Business Studies (Class 12th)
+
+Accountancy (Class 12th)
+
+CS Exams/PSUs
+
+
+
+ISRO
+
+
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Solved Papers
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+UGC NET
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Student Chapter
+
+Geek on the Top
+
+Internship
+
+Careers
+
+UPSC
+
+
+
+Geography Notes
+
+History Notes
+
+Science & Tech. Notes
+
+Ethics Notes
+
+Polity Notes
+
+Economics Notes
+
+UPSC Previous Year Papers
+
+SSC CGL
+
+
+
+SSC CGL Syllabus
+
+General Studies
+
+English
+
+Reasoning
+
+Subjectwise Practice Papers
+
+Previous Year Papers
+
+Banking Exams
+
+
+
+SBI Clerk
+
+
+
+SBI Clerk Syllabus
+
+General Awareness
+
+English
+
+Quantitative Aptitude
+
+Reasoning Ability
+
+SBI Clerk Practice Papers
+
+SBI PO
+
+
+
+SBI PO Syllabus
+
+General Awareness
+
+English
+
+Quantitative Aptitude
+
+Reasoning Ability
+
+Previous Year Papers
+
+SBI PO Practice Papers
+
+IBPS PO
+
+
+
+IBPS PO 2022 Syllabus
+
+English Notes
+
+Reasoning Notes
+
+Previous Year Papers
+
+Mock Question Papers
+
+IBPS Clerk
+
+
+
+IBPS Clerk Syllabus
+
+English Notes
+
+Previous Year Papers
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+
+
+Hire with Us
+
+Know about Jobathon
+
+Jobathon
+
+Practice
+
+
+
+All DSA Problems
+
+Problem of the Day
+
+Interview Series: Weekly Contests
+
+Bi-Wizard Coding: School Contests
+
+Events
+
+Practice SDE Sheet
+
+Curated DSA Lists
+
+
+
+Top 50 Array Problems
+
+Top 50 String Problems
+
+Top 50 Tree Problems
+
+Top 50 Graph Problems
+
+Top 50 DP Problems
+
+Contests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Saved Videos
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+DSA
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Data Science
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+JavaScript
+
+Machine Learning
+
+Write & Earn
+
+SDE Sheet
+
+Puzzles
+
+GFG School
+
+Projects
+
+
+▲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gblog
+What is System Design – Learn System Design
+System Design is the core concept behind the design of any distributed systems. System Design is defined as a process of creating an architecture for…
+
+Read More
+
+
+
+
+Blue-Collar vs White-Collar: What’s the Difference?
+
+We all know that there are different types of workers, which are usually classified based on several parameters. For example, government workers are classified based…
+
+Read More
+
+
+
+
+
+GBlog
+
+
+
+AdWords vs AdSense: What are the 3 Major Differences?
+
+AdWords vs. AdSense: What’s the difference between these two advertising platforms set by Google? Even though these two terms sound similar but they’ve stark contrasts.…
+
+Read More
+
+
+
+
+
+GBlog
+
+
+
+DSA in Python – Online Course For Beginners
+
+Expert
+We all must have learned in school that a program needs instructions to perform any dedicated task such as sequencing a number, sorting tables, etc.…
+
+Read More
+
+
+
+
+
+GFG-Update
+
+
+GBlog
+
+
+Python
+
+
+
+Videos
+
+Explore
+
+
+
+
+
+
+
+
+0:41
+Your Coding Journey Made Easy. GFG Karlo, Ho Jaega!!
+29/11/2022
+
+
+
+
+
+2:11
+Frameworks to Choose for Web Development
+29/11/2022
+
+
+
+
+
+13:17
+Python program to insert a star between pair of identical characters
+29/11/2022
+
+
+
+
+
+1:13
+How to Solve a DSA/CP problem
+28/11/2022
+
+
+
+
+
+43:37
+Creating MAVEN project for hibernate framework and adding dependencies
+28/11/2022
+
+
+
+
+
+7:38
+Java program to print square star pattern with diagonal
+28/11/2022
+
+
+
+
+
+5:40
+5 Mistakes I Made While Learning DSA
+27/11/2022
+
+
+
+
+
+0:52
+Development vs DSA vs Competitive Programming
+26/11/2022
+
+
+
+
+
+14:16
+How to Practice Coding | The Ultimate Guide ft. Anuj Bhaiya
+25/11/2022
+
+
+
+
+
+5:49
+Python program to Add key:value pair to dictionary
+25/11/2022
+
+
+
+
+
+
+
+Hanu Software Solutions Interview Experience
+
+Job Title: PAAS/IAAS/Data Engineer RoleIt was a 3-day process. The whole onboarding process was smooth. The interview had different rounds as follows: Online Assessment Round (Elimination…
+
+Read More
+
+
+
+
+
+Hanu Software Solutions
+
+
+Interview Experiences
+
+
+
+Extentia Interview Experience
+
+I applied for Extentia’s hiring process in July 2022. It was an off-campus experience. I received the mail of the first OA in the month…
+
+Read More
+
+
+
+
+
+Interview Experiences
+
+
+
+Accounting Treatment of Amount Due to Deceased Partner
+
+After making all the adjustments related to the partners, the balance due to the deceased partner is transferred to his/her executor’s account. This amount is…
+
+Read More
+
+
+
+
+
+Picked
+
+
+Accountancy
+
+
+Class 12
+
+
+
+Accounting Treatment of Joint Life Policy in case of Death of a Partner
+
+What is Joint Life Policy? Joint Life Policy like any other life policy gives coverage against the death of the policyholder, however, under Joint Life…
+
+Read More
+
+
+
+
+
+Picked
+
+
+Accountancy
+
+
+Class 12
+
+
+
+Accounting Treatment of Revaluation of Assets and Liabilities in case of Retirement of a Partner
+
+The value of Assets and Liabilities undergoes a change with the passage of time due to many reasons, like regular wear and tear, appreciation in…
+
+Read More
+
+
+
+
+
+Picked
+
+
+Accountancy
+
+
+Class 12
+
+
+
+Adjustment of Interest on Deceased Partner’s Capital, Deceased Partner’s Share in Goodwill and Accumulated Profits and Reserves
+
+Similar to the case of retirement, the Executor of the deceased partner is entitled to receive the interest on capital up to the date of…
+
+Read More
+
+
+
+
+
+Picked
+
+
+Accountancy
+
+
+Class 12
+
+
+
+Validating Programming File formats using Regular Expressions
+
+Given some programming file names, the task is to check if they are valid or not using regular expressions. A valid programming file name follows…
+
+Read More
+
+
+
+
+
+regular-expression
+
+
+Technical Scripter 2022
+
+
+DSA
+
+
+Pattern Searching
+
+
+Technical Scripter
+
+
+
+
+Quick Links
+
+
+
+
+
+
+GfG Contests
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Write an Article
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Coding Practice
+
+
+
+
+Partial Order Relation on a Set
+
+A relation is a subset of the cartesian product of a set with another set. A relation contains ordered pairs of elements of the set…
+
+Read More
+
+
+
+
+
+Technical Scripter 2022
+
+
+Engineering Mathematics
+
+
+Technical Scripter
+
+
+
+Accounting Treatment of Partner’s Capital Account in case of change in Profit Sharing Ratio (Fluctuating Capital)
+
+Capital is the amount contributed by the partners in the firm. Partner’s capital shows equity in a partnership owned by specific partners. It records the…
+
+Read More
+
+
+
+
+
+Picked
+
+
+Accountancy
+
+
+Class 12
+
+
+
+Count Subsets whose product is not divisible by perfect square
+
+Given an array arr[] (where arr[i] lies in the range [2, 30] )of size N, the task is to find the number of subsets such…
+
+Read More
+
+
+
+
+
+prime-factor
+
+
+subset
+
+
+Technical Scripter 2022
+
+
+Arrays
+
+
+DSA
+
+
+Technical Scripter
+
+
+
+Count of numbers between L and R that are coprime with P
+
+Find the count of numbers between L and R and are coprime with P. Note: Two numbers X and Y are coprime with each other…
+
+Read More
+
+
+
+
+
+Picked
+
+
+Technical Scripter 2022
+
+
+DSA
+
+
+Greedy
+
+
+School Programming
+
+
+Technical Scripter
+
+
+
+Create Array following condition such that exactly M prefixes have positive Sum
+
+You are given two integers N and M (M ≤ N), the task is to create an array of length N following the below-given conditions.…
+
+Read More
+
+
+
+
+
+prefix
+
+
+Technical Scripter 2022
+
+
+Arrays
+
+
+DSA
+
+
+Technical Scripter
+
+
+
+Construct a Matrix whose each row and column contains N and M 1s respectively
+
+Construct a matrix whose each row contains N 1’s and each column contains M 1’s. Examples: Input: N = 3, M = 4Output:1 1 11…
+
+Read More
+
+
+
+
+
+Picked
+
+
+Technical Scripter 2022
+
+
+DSA
+
+
+Greedy
+
+
+Matrix
+
+
+Technical Scripter
+
+
+
+Minimum deletion such that Xor of adjacent digits is atmost 1
+
+Given a string S consisting N digits, the task is to find the minimum number of deletions such that the bitwise Xor of any two…
+
+Read More
+
+
+
+
+
+Bitwise-XOR
+
+
+Technical Scripter 2022
+
+
+DSA
+
+
+Strings
+
+
+Technical Scripter
+
+
+
+Page 1 of 8,832
+1
+2
+3
+4
+5
+...
+10
+20
+30
+...
+»
+Last »
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+
+Complete Interview Preparation- Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+Data Structures & Algorithms- Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+Complete Data Science Program
+
+View Details
+
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+
+GfG Contests
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Write an Article
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Coding Practice
+
+
+
+
+
+Featured Articles
+
+View All
+
+
+
+
+
+Technical Scripter Event 2022 – India’s Biggest Technical Content Writing Contest
+October 17, 2022
+
+Crack the Coding Interview With GeeksforGeeks Weekly Contest Series
+September 11, 2022
+
+SDE SHEET – A Complete Guide for SDE Preparation
+August 18, 2022
+
+Must Do Coding Questions for Product Based Companies
+July 29, 2022
+
+Get Hired With GeeksforGeeks – GFG Job Portal
+July 28, 2022
+
+
+
+
+Recommended
+
+
+
+
+
+
+Guest Blogs
+
+
+
+Must Do Coding Questions Company-wise
+
+
+
+Practice for cracking any coding interview
+
+
+
+Placements
+
+
+
+Complete Interview Preparation - Self Paced
+
+
+
+GATE Computer Science Notes
+
+
+
+Machine Learning
+
+
+
+Django Tutorial
+
+
+
+Computer Science Projects
+
+
+
+Amazon SDE Test Series
+
+
+
+Company Interview Corner
+
+
+
+The C++ Standard Template Library (STL)
+
+
+
+Software Design Patterns
+
+
+
+SQL Tutorial
+
+
+
+Advanced Data Structures
+
+
+
+Improve your Coding Skills with Practice
+
+Try It!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+In Media
+
+Contact Us
+
+Privacy Policy
+
+Copyright Policy
+
+Advertise with us
+
+Learn
+
+DSA
+
+Algorithms
+
+Data Structures
+
+SDE Cheat Sheet
+
+Machine learning
+
+CS Subjects
+
+Video Tutorials
+
+Courses
+
+
+News
+
+Top News
+
+Technology
+
+Work & Career
+
+Business
+
+Finance
+
+Lifestyle
+
+Knowledge
+
+Languages
+
+Python
+
+Java
+
+CPP
+
+Golang
+
+C#
+
+SQL
+
+Kotlin
+
+Web Development
+
+Web Tutorials
+
+Django Tutorial
+
+HTML
+
+JavaScript
+
+Bootstrap
+
+ReactJS
+
+NodeJS
+
+Contribute
+
+Write an Article
+
+Improve an Article
+
+Pick Topics to Write
+
+Write Interview Experience
+
+Internships
+
+Video Internship
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+Start Your Coding Journey Now!
+
+Login
+Register
+
+
+

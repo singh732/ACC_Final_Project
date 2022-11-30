@@ -1,0 +1,7 @@
+https://www.w3schools.com/ 1669771508972.txt
+https://www.w3schools.com 1669771509059.txt
+https://www.geeksforgeeks.org/ 1669772018416.txt
+https://www.geeksforgeeks.org/#main 1669772018542.txt
+https://practice.geeksforgeeks.org/courses/geeks-classes-live?utm_source=gfg&utm_medium=Submenu&utm_campaign=courses-submenu 1669772018797.txt
+https://practice.geeksforgeeks.org/courses/system-design-live?utm_source=gfg&utm_medium=Submenu&utm_campaign=courses-submenu 1669772018888.txt
+https://practice.geeksforgeeks.org/courses/java-backend-live?utm_source=gfg&utm_medium=Submenu&utm_campaign=courses-submenu 1669772019045.txt
